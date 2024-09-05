@@ -1,4 +1,4 @@
-public class Variables {
+public class Variables_01 {
     public static void main(String[] args) {
         //Different types of variables
         //int : it store only whole number 
