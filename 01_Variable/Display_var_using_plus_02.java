@@ -1,4 +1,4 @@
-public class Display_var_using_plus {
+public class Display_var_using_plus_02 {
     public static void main(String[] args) {
         //+ : it is used to combine both text and a variable and also we can add a variable to another variable(it can be string or int)
 
