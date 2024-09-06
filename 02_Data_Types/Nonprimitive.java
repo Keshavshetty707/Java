@@ -8,12 +8,14 @@ public class Nonprimitive {
         System.out.println(str);
 
         //Arrays : Arrays are used to store multiple values in a single variable, instead of declaring separate variables for each value
-        System.out.println("B. Array");
+        System.out.println("\nB. Array");
         String[] cars = {"Volvo", "BMW", "Ford", "Mazda"};
         int[] myNum = {10, 20, 30, 40};
-        System.out.println(cars);
-        System.out.println(myNum);
 
+        System.out.println(cars[0]);
+        System.out.println(myNum[2]);
+
+        System.out.println("\nC. Class");
         System.out.println("accessing Nonprimitive class member using object:"+ obj.var1);
     }
 }
